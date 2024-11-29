@@ -122,7 +122,7 @@ Contributions are welcome! Please feel free to submit pull requests with improve
 
 ## License
 
-[License Type] - see LICENSE file for details
+MIT - see LICENSE file for details
 
 ## Disclaimer
 
