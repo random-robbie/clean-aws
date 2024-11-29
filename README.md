@@ -56,7 +56,7 @@ Cleans up these resources in all enabled AWS regions:
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/random-robbie/clean-aws.git](https://github.com/random-robbie/clean-aws.git)
+git clone https://github.com/random-robbie/clean-aws.git
 cd clean-aws
 ```
 
